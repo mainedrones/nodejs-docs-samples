@@ -31,7 +31,7 @@ const escapeHtml = require('escape-html');
  *                     More info: https://expressjs.com/en/api.html#res
  */
 exports.helloGET = (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello Planet Earth!');
 };
 // [END functions_helloworld_get]
 
